@@ -1,0 +1,9 @@
+node_modules/
+work/pw-profile/
+work/questions.json
+work/answers.json
+work/docx_text.txt
+work/questions_readable.md
+work/needs_review.md
+work/answer_bank_review.md
+*.log
