@@ -24,8 +24,11 @@
 ## 使用流程
 
 1. 将 OCR 后的 Word 文件放到项目根目录，例如 `2026eg.docx`。
-
-2. 提取 Word 文本：
+   我已经把OCR提取后的放在这里了：👇
+   我用夸克网盘给你分享了「2026eg」，点击链接或复制整段内容，打开「夸克APP」即可获取。祄及咧一森并诶岗走为为汢/~dd4b3aGzfh~:/链接：https://v.v8l.cn/s/dJKCmJH
+   我用夸克网盘给你分享了「2026g」，点击链接或复制整段内容，打开「夸克APP」即可获取。祄森七一词并诶岗走给未汢/~f6a73aH0C2~:/链接：https://v.v8l.cn/s/oY8Rzb8
+   注：2026eg是研究生版本，2026g是本科生版，笔者是研究生因此answer库里面的答案也都是研究生的，大家请自行辨别。
+3. 提取 Word 文本：
 
 ```powershell
 python work\docx_search.py extract 2026eg.docx -o work\docx_text.txt
@@ -102,3 +105,5 @@ python work\docx_search.py extract 2026eg.docx -o work\docx_text.txt
 ### Playwright 浏览器下载失败
 
 脚本会优先使用系统 Edge/Chrome。如果本机没有浏览器，请安装 Microsoft Edge 或 Google Chrome。
+
+### 建议大家使用codex直接跑这个项目 笔者也是基于codex开发的
